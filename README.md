@@ -13,7 +13,7 @@ For further details, please visit: https://wiki.melissadata.com/images/5/53/DQT_
 ## Tested Environments
 
 - Windows 64-bit .NET 7.0
-- Melissa Phone Object for 2023-08
+- Melissa Phone Object for 2023-09
 
 ## Getting Started
 
