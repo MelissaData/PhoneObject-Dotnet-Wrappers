@@ -13,7 +13,7 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/phone
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
 - Melissa Phone Object for 2024-01
-- Wrapper file(s) have not changed since 2023-10
+- Wrapper file(s) have not changed since 2023-08
 
 ## Getting Started
 
