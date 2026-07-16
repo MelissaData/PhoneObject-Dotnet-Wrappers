@@ -19,8 +19,8 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/phone
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissaphoneobjectnetwrappers.git
-cd melissaphoneobjectnetwrappers
+git clone https://github.com/MelissaData/PhoneObject-Dotnet-Wrappers
+cd PhoneObject-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
